@@ -17,10 +17,10 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: SplashScreen.navigate(
-        name: 'assets/demo_1.riv',
+        name: 'assets/demo_2.riv',
         next: (_) => const MyHomePage(title: 'Flutter Demo Home Page'),
         until: () => Future.delayed(const Duration(seconds: 5)),
-        startAnimation: 'Animation 1',
+        startAnimation: 'Timeline 1',
       ),
     );
   }
