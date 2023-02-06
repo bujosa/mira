@@ -1,10 +1,10 @@
 # Mira
-
 This is a simple application about SplashScreen on Flutter.
 
 ## Documentation
+Using [rive_splash_screen](https://pub.dev/packages/rive_splash_screen) packages, I design my own animated splash screen on [Rive](https://editor.rive.app/) editor.
 
-Changes this
+See demo_2.riv -> [Click here](https://rive.app/s/JLcb_Ykwk0_ec-lakP-LgA/)
 
 ## Getting Started on Flutter
 
